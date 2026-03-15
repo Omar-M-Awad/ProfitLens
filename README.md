@@ -58,18 +58,6 @@ The dataset used is the publicly available
 [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) 
 from Kaggle.
 
-Place the CSV file in the `/data` folder and re-link it in 
-Power BI via: **Home → Transform Data → Data Source Settings**
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository
-2. Open `dashboard/ProfitLens.pbix` in Power BI Desktop
-3. If prompted, relink the data source to `/data/Sample-Superstore.csv`
-4. Explore all 4 pages
-
 ---
 
 ## 📬 Custom Dashboard for Your Business?
