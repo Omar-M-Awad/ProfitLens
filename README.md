@@ -62,14 +62,14 @@ from Kaggle.
 
 ## 📬 Custom Dashboard for Your Business?
 
-This template is available as a custom service on Fiverr.
+This template will be available as a custom service on Fiverr.
 I'll adapt it to your own data and business context.
 
 ---
 
 ## 📬 Want This Dashboard?
 
-This is a premium template available as a custom service.
-Delivered as a ready-to-use `.pbix` file adapted to your data.
+This is a premium template delivered as a ready-to-use `.pbix` 
+file, adapted to your own business data.
 
-👉 [Order on Fiverr](#) ← replace with your gig link
+👉 [Let's connect on LinkedIn](www.linkedin.com/in/omar-y-awad)
