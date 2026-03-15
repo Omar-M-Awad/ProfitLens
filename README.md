@@ -72,4 +72,4 @@ I'll adapt it to your own data and business context.
 This is a premium template delivered as a ready-to-use `.pbix` 
 file, adapted to your own business data.
 
-👉 [Let's connect on LinkedIn](www.linkedin.com/in/omar-y-awad)
+👉 [Let's connect on LinkedIn](linkedin.com/in/omar-y-awad)
